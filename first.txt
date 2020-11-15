@@ -1,2 +1,5 @@
 my text
+Salut de la Ione
+
 Modificare Mihai
+am fixat conflictul
